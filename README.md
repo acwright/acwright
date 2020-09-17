@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-Hey! I'm A.C. Wright and I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://geni.us/0RBc0b), and blogger from Lincoln, NE.
+Hey! I'm A.C. Wright and I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://geni.us/acwright), and blogger from Lincoln, NE.
 
 ## ✍🏻 Blog & Writing
 
