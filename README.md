@@ -4,11 +4,14 @@
 
 ## 🚀 About Me
 
-Hey! I'm A.C. Wright and I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://geni.us/acwright), and blogger from Lincoln, NE.
+Hey! I'm A.C. Wright and I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://geni.us/acwright), and [Blogger](https://medium.com/@acwrightdesign) from Lincoln, NE.
 
-## ✍🏻 Blog & Writing
+## ✍🏻 Contact Me
 
-You can find my articles on my website at [acwrightdesign.com](https://acwrightdesign.com) as well as on [Medium](https://medium.com/@acwrightdesign).
+You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com).
+
+Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
+Twitter: [https://twitter.com/acwrightdesign](https://twitter.com/acwrightdesign)
 
 ## 🔧 Technologies & Tools
 
