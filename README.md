@@ -8,7 +8,9 @@ I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://youtub
 
 You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com)
 
-## 🍺 Follow Me
+## 🍺 Support Me
+
+Buy me a coffee (or beer): [https://paypal.me/acwrightdesign](https://paypal.me/acwrightdesign)
 
 - YouTube: [https://youtube.com/user/acwrightdesign](https://youtube.com/user/acwrightdesign)
 - Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
