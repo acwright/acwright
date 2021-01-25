@@ -1,17 +1,17 @@
-## A.C. Wright
+# A.C. Wright
 
 [![Banner](https://raw.githubusercontent.com/acwright/acwright/master/banner.png "Banner")](https://acwrightdesign.com/)
 
 ## 🚀 About Me
 
-Hey! I'm A.C. Wright and I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://geni.us/acwright), and [Blogger](https://medium.com/@acwrightdesign) from Lincoln, NE.
+I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://youtube.com/user/acwrightdesign), and [Blogger](https://medium.com/@acwrightdesign) from Lincoln, NE
 
 ## ✍🏻 Contact Me
 
-You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com).
+You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com)
 
-Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
-Twitter: [https://twitter.com/acwrightdesign](https://twitter.com/acwrightdesign)
+- Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
+- Twitter: [https://twitter.com/acwrightdesign](https://twitter.com/acwrightdesign)
 
 ## 🔧 Technologies & Tools
 
