@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://youtube.com/user/acwrightdesign), and [Blogger](https://medium.com/@acwrightdesign) from Lincoln, NE
+I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://youtube.com/user/acwrightdesign), and [Patch Maker](https://gravitypatchco.etsy.com) from Lincoln, NE
 
 You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com)
 
@@ -16,8 +16,10 @@ Buy me a coffee (or beer): [https://paypal.me/acwrightdesign](https://paypal.me/
 - Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
 - Twitter: [https://twitter.com/acwrightdesign](https://twitter.com/acwrightdesign)
 - Pinterest: [https://pinterest.com/acwrightdesign](https://pinterest.com/acwrightdesign)
+- Pinterest: [https://pinterest.com/gravitypatchco](https://pinterest.com/gravitypatchco)
 - Medium: [https://medium.com/@acwrightdesign](https://medium.com/@acwrightdesign)
 - Etsy: [https://www.etsy.com/shop/acwrightdesign](https://www.etsy.com/shop/acwrightdesign)
+- Etsy: [https://www.etsy.com/shop/gravitypatchco](https://www.etsy.com/shop/gravitypatchco)
 - Github: [https://github.com/acwright](https://github.com/acwright)
 
 ## 🔧 Technologies & Tools
@@ -26,7 +28,9 @@ Buy me a coffee (or beer): [https://paypal.me/acwrightdesign](https://paypal.me/
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
