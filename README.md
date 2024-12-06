@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a [Software Developer](https://infinitetoken.com), [YouTuber](https://youtube.com/user/acwrightdesign), and [Patch Maker](https://gravitypatchco.etsy.com) from Lincoln, NE
+I'm a Software Developer and Maker from Lincoln, NE
 
 You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com)
 
@@ -16,10 +16,8 @@ Buy me a coffee (or beer): [https://paypal.me/acwrightdesign](https://paypal.me/
 - Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
 - Twitter: [https://twitter.com/acwrightdesign](https://twitter.com/acwrightdesign)
 - Pinterest: [https://pinterest.com/acwrightdesign](https://pinterest.com/acwrightdesign)
-- Pinterest: [https://pinterest.com/gravitypatchco](https://pinterest.com/gravitypatchco)
 - Medium: [https://medium.com/@acwrightdesign](https://medium.com/@acwrightdesign)
 - Etsy: [https://www.etsy.com/shop/acwrightdesign](https://www.etsy.com/shop/acwrightdesign)
-- Etsy: [https://www.etsy.com/shop/gravitypatchco](https://www.etsy.com/shop/gravitypatchco)
 - Github: [https://github.com/acwright](https://github.com/acwright)
 
 ## 🔧 Technologies & Tools
