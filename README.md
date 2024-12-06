@@ -8,9 +8,7 @@ I'm a Software Developer and Maker from Lincoln, NE
 
 You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com)
 
-## 🍺 Support Me
-
-Buy me a coffee (or beer): [https://paypal.me/acwrightdesign](https://paypal.me/acwrightdesign)
+## 📍 Find Me
 
 - YouTube: [https://youtube.com/user/acwrightdesign](https://youtube.com/user/acwrightdesign)
 - Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
