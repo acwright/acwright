@@ -12,7 +12,6 @@ You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com
 
 - YouTube: [https://youtube.com/user/acwrightdesign](https://youtube.com/user/acwrightdesign)
 - Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
-- Twitter: [https://twitter.com/acwrightdesign](https://twitter.com/acwrightdesign)
 - Pinterest: [https://pinterest.com/acwrightdesign](https://pinterest.com/acwrightdesign)
 - Medium: [https://medium.com/@acwrightdesign](https://medium.com/@acwrightdesign)
 - Etsy: [https://www.etsy.com/shop/acwrightdesign](https://www.etsy.com/shop/acwrightdesign)
