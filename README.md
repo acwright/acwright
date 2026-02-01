@@ -14,9 +14,8 @@ You can contact me at [acwrightdesign@gmail.com](mailto:acwrightdesign@gmail.com
 - Instagram: [https://instagram.com/acwrightdesign](https://instagram.com/acwrightdesign)
 - Pinterest: [https://pinterest.com/acwrightdesign](https://pinterest.com/acwrightdesign)
 - Medium: [https://medium.com/@acwrightdesign](https://medium.com/@acwrightdesign)
-- Etsy: [https://www.etsy.com/shop/acwrightdesign](https://www.etsy.com/shop/acwrightdesign)
 - Github: [https://github.com/acwright](https://github.com/acwright)
-
+- 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
