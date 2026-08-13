@@ -45,26 +45,26 @@ one if you want one.
 
 | | |
 |---|---|
-| [6502-KIM](https://github.com/acwright/6502-KIM) | A 65C02, a 24-key pad, a 16×2 LCD and eight LEDs. Boots into a hex monitor. The machine series 01 is taught on |
-| [6502-ACE](https://github.com/acwright/6502-ACE) | Video, sound and storage. The one with a display processor behind a port |
-| [6502-DEV](https://github.com/acwright/6502-DEV) | The development machine |
-| [6502-COB](https://github.com/acwright/6502-COB) | Computer-on-board — the whole machine on one card |
-| [6502-VCS](https://github.com/acwright/6502-VCS) | The console of the family |
-| [APL1](https://github.com/acwright/APL1) | A homebrew Apple 1 replica |
+| [6502-ACE](https://github.com/acwright/6502-ACE) | **A**ll-in-one **C**omputer **E**xperience — the whole family on a single board: 65C02, VGA video, SID audio, storage, serial, GPIO and a real-time clock |
+| [6502-KIM](https://github.com/acwright/6502-KIM) | **K**eypad **I**nput **M**onitor — a 65C02, a 24-key pad, a 16×2 LCD and eight LEDs. Boots into a hex monitor. The machine series 01 is taught on |
+| [6502-DEV](https://github.com/acwright/6502-DEV) | **D**evelopment **E**nvironment **V**ehicle — a Teensy 4.1 stands in for the CPU, with run/stop, single-step and a clock you can slow to a crawl |
+| [6502-COB](https://github.com/acwright/6502-COB) | **C**omputer **o**n a **B**ackplane — the modular desktop: card slots, up to 544KB of RAM, and a card for every peripheral |
+| [6502-VCS](https://github.com/acwright/6502-VCS) | **V**ideo **C**omputer **S**ystem — the console of the family: ROM cartridges, VGA out, SID sound and 2600-compatible joysticks |
+| [APL1](https://github.com/acwright/APL1) | A homebrew Apple 1 replica — 6502, 65C21 PIA and WozMon, with a microcontroller terminal adding PS/2 and serial |
 
 ## Firmware, Emulators & Tools
 
 | | |
 |---|---|
-| [6502-BIOS](https://github.com/acwright/6502-BIOS) | The Kernal these programs call into |
-| [6502-KIMULATOR](https://github.com/acwright/6502-KIMULATOR) | KIM emulator, in a browser or on the desktop |
-| [6502-EMULATOR](https://github.com/acwright/6502-EMULATOR) | Emulator for the wider AC6502 family |
-| [6502-PICOCALC](https://github.com/acwright/6502-PICOCALC) | AC6502 on the ClockworkPi PicoCalc |
-| [6502-ASM](https://github.com/acwright/6502-ASM) | Assembly programs, beyond the ones in the series |
-| [6502-PRG](https://github.com/acwright/6502-PRG) / [6502-CRT](https://github.com/acwright/6502-CRT) | Program and cartridge templates to start from |
-| [bin2woz](https://github.com/acwright/bin2woz) | Binary → serial upload, for real hardware |
-| [cffs](https://github.com/acwright/cffs) | CompactFlash filesystem images, from the command line |
-| [VT-AC](https://github.com/acwright/VT-AC) | A fantasy VT terminal — desktop, web and CLI |
+| [6502-BIOS](https://github.com/acwright/6502-BIOS) | The 32KB ROM every machine boots: the Kernal, the Monitor and BASIC. It probes the I/O slots, so missing cards are simply skipped |
+| [6502-EMULATOR](https://github.com/acwright/6502-EMULATOR) | The family, emulated — cycle-accurate 65C02, TMS9918 video, SID audio. Browser or desktop |
+| [6502-KIMULATOR](https://github.com/acwright/6502-KIMULATOR) | The KIM in particular — pad, LCD and the eight LEDs on the bus. Browser or desktop |
+| [6502-PICOCALC](https://github.com/acwright/6502-PICOCALC) | The whole machine as one `.uf2` for the ClockworkPi PicoCalc — a handheld AC6502 |
+| [6502-ASM](https://github.com/acwright/6502-ASM) | Assembly programs beyond the ones in the series, each with a Makefile |
+| [6502-PRG](https://github.com/acwright/6502-PRG) / [6502-CRT](https://github.com/acwright/6502-CRT) | Templates to start from — a program that loads into RAM, or a cartridge that overlays ROM |
+| [bin2woz](https://github.com/acwright/bin2woz) | Binary → WozMon deposits, to paste into a machine over a serial terminal |
+| [cffs](https://github.com/acwright/cffs) | Build and edit CompactFlash images from the command line — up to 256 disk banks |
+| [VT-AC](https://github.com/acwright/VT-AC) | A VT terminal that could have existed but didn't — VT-100 compatible, with 256 colours and a graphics mode. Desktop, web and CLI |
 | [TMS9918-EDITOR](https://github.com/acwright/TMS9918-EDITOR) | Character and screen editor for the TMS9918 VDP |
 
 ## Elsewhere
