@@ -1,1 +1,7 @@
 theme: jekyll-theme-slate
+
+# Used by {% seo %} in _layouts/default.html for the page <title> and meta
+# description on acwrightdesign.com. Without these, jekyll-seo-tag falls back to
+# the repository name, so the site's title bar reads "acwright".
+title: A.C. Wright
+description: I build 8-bit computers, and I make videos about programming them.
