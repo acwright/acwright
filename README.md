@@ -2,8 +2,7 @@
 
 # A.C. Wright
 
-I'm a software developer with more than twenty years of experience, and I design,
-build and program 8-bit computers.
+Software developer of 20+ years. These days I design, build and program 8-bit computers.
 
 The project I'm currently working on is the **AC6502**, a family of homebrew 6502 computers.
 The rest of this account is a mix of retro computing, Swift and SwiftUI examples, and
